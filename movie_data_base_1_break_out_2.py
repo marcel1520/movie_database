@@ -32,6 +32,7 @@ movies_dict = {
         }
 
 def display_title(head_line_1, head_line_2, head_line_3):
+    '''function for displaying the title of the movie database'''
     title_line = head_line_1 + head_line_2 + head_line_3
     return title_line
 
